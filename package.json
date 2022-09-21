@@ -1,0 +1,21 @@
+{
+  "name": "checkpointcypress",
+  "version": "1.0.0",
+  "description": "Check point - Trainee Force - First Proyect Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    " e2e",
+    "automation",
+    "framework",
+    "Cypress"
+  ],
+  "author": "Keilor Calvo Marin",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
